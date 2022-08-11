@@ -10,3 +10,4 @@ A RegEx, or Regular Expression, is a sequence of characters that forms a search 
 [Regexpal](https://www.regexpal.com/) [,]()
 [W3schools python_regex](https://www.w3schools.com/python/python_regex.asp) 
 
+![image](https://user-images.githubusercontent.com/70816680/184247090-36f8e0a7-dbcf-439c-bcc8-65f7ae09b9e7.png)
