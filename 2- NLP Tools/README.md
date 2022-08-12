@@ -4,5 +4,7 @@ Tokenization refers to a process by which a piece of sensitive data, such as a c
 
 Text segmentation is the process of dividing written text into meaningful units, such as words, sentences, or topics. 
 
+Part-of-speech (POS) tagging is a process of converting a sentence to forms – list of words, list of tuples where each tuple is having a form (word, tag).
+
 ![image](https://user-images.githubusercontent.com/70816680/184263720-5c85e967-40b8-4d1c-bdcc-f83af62182c8.png)
 
