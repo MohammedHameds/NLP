@@ -9,5 +9,7 @@ Part-of-speech (POS) tagging is a process of converting a sentence to forms – 
 
 Stemming just removes or stems the last few characters of a word, often leading to incorrect meanings and spelling. Lemmatization considers the context and converts the word to its meaningful base form, which is called Lemma.
 
+Named entity recognition (NER) — sometimes referred to as entity chunking, extraction, or identification — is the task of identifying and categorizing key information (entities) in text.
+
 ![image](https://user-images.githubusercontent.com/70816680/184263720-5c85e967-40b8-4d1c-bdcc-f83af62182c8.png)
 
