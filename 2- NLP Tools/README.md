@@ -11,5 +11,9 @@ Stemming just removes or stems the last few characters of a word, often leading 
 
 Named entity recognition (NER) — sometimes referred to as entity chunking, extraction, or identification — is the task of identifying and categorizing key information (entities) in text.
 
+Stopwords are the most common words in any natural language. For the purpose of analyzing text data and building NLP models, these stopwords might not add much value to the meaning of the document.
+
+The Matcher lets you find words and phrases using rules describing their token attributes. Rules can refer to token annotations
+
 ![image](https://user-images.githubusercontent.com/70816680/184263720-5c85e967-40b8-4d1c-bdcc-f83af62182c8.png)
 
